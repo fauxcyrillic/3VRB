@@ -7,7 +7,7 @@ based on the public domain schematic for "Verbtronic" by Pittsburgh Modular.
 
 3x PT2399 chips in series, with a mode toggle to switch between two sets of delay times for each chip for two types of sound.
 
-Rougly speaking, switch left is a more natural, springy sound, while switch right is a more space-y, echo-y sound.
+Rougly speaking, switch left is a more natural, kinda tape delay sort of sound, while switch right is a more metallic, springy sound. (To my ears)
 
 Turn tone left to emphasise low frequencies in the echo, turn right to emphasise high frequencies.
 
