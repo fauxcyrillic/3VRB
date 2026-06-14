@@ -11,7 +11,7 @@ Rougly speaking, switch left is a more natural, kinda tape delay sort of sound, 
 
 Turn tone left to emphasise low frequencies in the echo, turn right to emphasise high frequencies.
 
-Tone and mix pots are 100k linear. Feedback pot is 100k logarithmic.
+All pots are 100k linear. There's one through-hole resistor used to set the input attenuation into the PT2399. I haven't settled on the perfect value for this yet, hence leaving it t-h to allow testing. Likely the best value is 33k or 47k.
 
 The mode switch is one of these sub-miniature toggles from Thonk: https://www.thonk.co.uk/shop/sub-mini-toggle-switches/
 You want SPDT ON-ON so choose DW1 or DWLP1 depending on how tall of a switch you want (DWLP1 is shorter)
