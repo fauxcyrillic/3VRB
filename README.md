@@ -11,10 +11,12 @@ Rougly speaking, switch left is a more natural, kinda tape delay sort of sound, 
 
 Turn tone left to emphasise low frequencies in the echo, turn right to emphasise high frequencies.
 
-All pots are 100k linear. There's one through-hole resistor used to set the input attenuation into the PT2399. I haven't settled on the perfect value for this yet, hence leaving it t-h to allow testing. Likely the best value is 33k or 47k.
+All pots are 100k linear. There's one through-hole resistor used to set the input attenuation into the PT2399. I haven't settled on the perfect value for this yet, hence leaving it t-h to allow testing. Likely the best value is 33k or 47k. (Update: i settled on 33k, 47k seemed to risk pusing it into clipping)
 
 The mode switch is one of these sub-miniature toggles from Thonk: https://www.thonk.co.uk/shop/sub-mini-toggle-switches/
 You want SPDT ON-ON so choose DW1 or DWLP1 depending on how tall of a switch you want (DWLP1 is shorter)
+
+(After testing both: I prefer the taller version - DW1. Because the shorter version has less leverage, it takes a little more force to switch, and I find that less pleasant. The DWLP1 version might allow slightly easier access to the feedback knob, although personally I don't find it a problem.)
 
 They're technically too tall at 8.64mm to fit between panel and PCB in AE (which only allows 8mm). However, they have tiny little plastic 'feet' which you can trim off or file down which makes them *just* fit. They should come with a little washer and nut which i recommend fitting on the panel front to reduce strain on the solder points when flicking the switch (which is very satisfying)
 
